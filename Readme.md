@@ -21,4 +21,3 @@ En éste repositorio encontraras lo siguiente:
 ## 📺 Link para ver la presentación
 
 🌐 [LINK](https://krlitosforever.github.io/Encuentro-Inacap-Coppo/)
-
